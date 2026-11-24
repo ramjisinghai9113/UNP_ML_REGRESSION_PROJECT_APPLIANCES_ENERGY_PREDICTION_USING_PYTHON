@@ -142,5 +142,5 @@ Metrics at the **80/20 split**:
 - Transform the skewed target (for example log) or handle the spikes explicitly
 - Use SHAP for deeper interpretability
 
-Code Link:https://drive.google.com/file/d/1OmaDNTRiRi4BPWHfUhV7ntGMqmHCTL_z/view?usp=drive_link
-PPT Link:https://docs.google.com/presentation/d/1hxTiDWFg048zns0g1PyJxZN39fH3a-IG/edit?usp=drive_link&ouid=115260607757946087302&rtpof=true&sd=true
+Code Link:https://drive.google.com/file/d/1OmaDNTRiRi4BPWHfUhV7ntGMqmHCTL_z/view?usp=sharing
+PPT Link:https://docs.google.com/presentation/d/1hxTiDWFg048zns0g1PyJxZN39fH3a-IG/edit?usp=sharing&ouid=115260607757946087302&rtpof=true&sd=true
